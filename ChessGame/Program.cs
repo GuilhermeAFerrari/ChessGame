@@ -5,6 +5,7 @@ using Game;
 try
 {
 	ChessMatch game = new ChessMatch();
+	
 	while (!game.GameOver)
 	{
 		try
